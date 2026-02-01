@@ -39,7 +39,7 @@ The dataset contains the sales data of Vrinda Store for the year 2022 and is use
 - 👗 Highest-Selling Product Category
 
 
-#📊 Vrinda Store Dashboard 
+# 📊 Vrinda Store Dashboard 
 <a href="https://github.com/Pawan-Nishad/Data-Analysis-Dashboard/blob/main/Vrinda%20Dashboard%20Image.png"> View Dashboard<a/>
 
 

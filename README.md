@@ -36,7 +36,11 @@ The dataset contains the sales data of Vrinda Store for the year 2022 and is use
 - ✅ Percentage of Orders Delivered  
 
 ### 🧺 Product Performance
-- 👗 Highest-Selling Product Category  
+- 👗 Highest-Selling Product Category
+
+
+![Vrinda Store Dashboard]()
+
 
 
 

@@ -13,8 +13,6 @@ The dataset contains the sales data of Vrinda Store for the year 2022 and is use
 
 ## 📌 KPIs
 
--## 📌 KPIs
-
 ### 💰 Sales Performance
 - 💵 Total Sales Amount  
 - 🧾 Total Number of Orders  

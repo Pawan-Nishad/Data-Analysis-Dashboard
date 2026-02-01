@@ -60,6 +60,10 @@ The dataset contains the sales data of Vrinda Store for the year 2022 and is use
 - Target the Adult age group (30–49 years) with personalized offers and discounts.  
 - Invest more in high-performing channels like Amazon and Flipkart to boost overall sales.  
 
+## 🚀 Dashboard Impact
+
+This interactive Excel dashboard provides a clear view of sales trends, customer behavior, and channel performance. It helps business stakeholders make data-driven decisions related to marketing strategy, inventory planning, and sales optimization.
+
 
 
 

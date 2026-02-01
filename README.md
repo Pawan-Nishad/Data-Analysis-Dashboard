@@ -13,15 +13,33 @@ The dataset contains the sales data of Vrinda Store for the year 2022 and is use
 
 ## 📌 KPIs
 
-- Compare **sales and orders** using a single chart  
-- Identify the **month with the highest sales and order volume**  
-- Analyze **customer purchasing behavior by gender (men vs. women)**  
-- Determine the **distribution of order statuses in 2022**  
-- Identify the **top 10 states contributing to total sales**  
-- Analyze the **relationship between age and gender based on order volume**  
-- Identify the **sales channel contributing the highest revenue**  
-- Determine the **highest-selling product category**  
-- Calculate the **percentage of total orders delivered**
+-## 📌 KPIs
+
+### 💰 Sales Performance
+- 💵 Total Sales Amount  
+- 🧾 Total Number of Orders  
+- 📈 Monthly Sales & Order Trend  
+- 🗓️ Month with the Highest Sales & Orders  
+
+### 👥 Customer Analysis
+- 🚻 Sales Contribution by Gender (Men vs. Women)  
+- 🎂 Order Distribution by Age Group  
+- 🔗 Age vs Gender Analysis Based on Number of Orders  
+
+### 🌍 Geographic Performance
+- 📍 Top Contributing States by Sales  
+
+### 🛒 Channel Performance
+- 🛍️ Sales Contribution by Channel  
+- ⭐ Highest-Performing Sales Channel  
+
+### 📦 Order Fulfillment
+- 🚚 Order Status Distribution (Delivered, Returned, Cancelled)  
+- ✅ Percentage of Orders Delivered  
+
+### 🧺 Product Performance
+- 👗 Highest-Selling Product Category  
+
 
 
 

@@ -11,5 +11,18 @@ The dataset contains the sales data of Vrinda Store for the year 2022 and is use
 📁 Dataset Link:  
 [Vrinda Store Sales Data (Excel)](https://github.com/Pawan-Nishad/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Store.xlsx)
 
+## 📌 KPIs
+
+- Compare **sales and orders** using a single chart  
+- Identify the **month with the highest sales and order volume**  
+- Analyze **customer purchasing behavior by gender (men vs. women)**  
+- Determine the **distribution of order statuses in 2022**  
+- Identify the **top 10 states contributing to total sales**  
+- Analyze the **relationship between age and gender based on order volume**  
+- Identify the **sales channel contributing the highest revenue**  
+- Determine the **highest-selling product category**  
+- Calculate the **percentage of total orders delivered**
+
+
 
 

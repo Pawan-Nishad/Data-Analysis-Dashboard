@@ -42,6 +42,17 @@ The dataset contains the sales data of Vrinda Store for the year 2022 and is use
 # 📊 Vrinda Store Dashboard 
 <a href="https://github.com/Pawan-Nishad/Data-Analysis-Dashboard/blob/main/Vrinda%20Dashboard%20Image.png"> View Dashboard<a/>
 
+## 📊 Dashboard Insights
+
+- March recorded the highest sales and order volume during the year.  
+- Women customers contributed the majority of sales (64%) compared to men (36%).  
+- Maharashtra generated the highest sales, followed by Karnataka and Uttar Pradesh.  
+- The Adult age group (30–49 years) placed the maximum number of orders across both genders.  
+- Amazon and Flipkart emerged as the top-performing sales channels.  
+- Clothing-related categories showed the highest sales contribution.  
+- 92% of total orders were successfully delivered, indicating strong order fulfillment performance.
+
+
 
 
 
